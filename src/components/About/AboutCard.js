@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Vitalis Muthomi </span>
             a passionate tech enthusiast and freelancer based in <span className="purple"> Nairobi, Kenya.</span>
             <br />
-            I hold a Bachelor of Science in Information Technology from Mount Kenya University and further honed my skills through a Software Engineering course at Moringa School. 
+            I hold a Bachelor of Science in <span className="purple">Information Technology </span>from Mount Kenya University and further honed my skills through a <span className="purple">Software Engineering</span> course at Moringa School. 
             <br />Beyond coding, I thrive on exploring creativity and innovation in various forms. Whether I’m immersing myself in the excitement of gaming, sharing insights through engaging tech blogs, or navigating the dynamic world of forex trading, 
             <br />I’m constantly fueled by curiosity and a drive to learn. Each of these pursuits inspires me to approach challenges with fresh perspectives and boundless energy.
             <br />
